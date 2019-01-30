@@ -1,4 +1,4 @@
-# sqlite3
+# python_sqlite
 This repo contains a simple python script to demonstrate connection to sqlite3 database.
 
 
