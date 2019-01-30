@@ -5,7 +5,7 @@ import sqlite3
 #*********
 
 def connect_to_db(dbase):
-	""" create the connection to the SQLite database that is specified by dbase
+	""" create the connection to the sqlite database that is specified by dbase
 	"""
 	try:
 		conxn = sqlite3.connect(dbase)
